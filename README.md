@@ -55,7 +55,6 @@ The prediction is displayed on a **real-time Streamlit Dashboard**, allowing use
 <img src="c:\Users\hp\Downloads\ChatGPT Image Jul 16, 2026, 01_08_24 PM.png" width="900"> 
 
 </p>
-git statur
 ---
 
 # 🔄 Working Flow
