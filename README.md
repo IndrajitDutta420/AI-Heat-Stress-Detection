@@ -116,9 +116,8 @@ AI-Heat-Stress-Detection
 │   └── heat_stress/
 │       └── heat_stress.ino
 │
-├── docs/
-│   └── architecture.png
-│
+├──  architecture.png
+│ 
 ├── README.md
 ├── requirements.txt
 └── LICENSE
@@ -327,14 +326,60 @@ Seek medical assistance if symptoms continue.
 
 # 📸 Project Demo
 
-Add screenshots here.
 
-```
-docs/dashboard.png
+## 🖥 Dashboard Overview
 
-docs/backend.png
+<p align="center">
+<img width="1918" height="877" alt="Screenshot 2026-07-17 141529" src="https://github.com/user-attachments/assets/74e32482-a522-4436-993f-df2e383a6396" />
+</p>
 
-docs/esp32.png
+---
+
+## 🌡 Temperature  History
+<p align="center">
+<img width="1522" height="650" alt="Screenshot 2026-07-17 141607" src="https://github.com/user-attachments/assets/ec889c4f-e50f-4a35-a84f-d40d03ebbffd" />
+</p>
+
+---
+## 💧 Humidity  History
+<p align="center">
+<img width="1491" height="667" alt="Screenshot 2026-07-17 141621" src="https://github.com/user-attachments/assets/c6629b6f-a513-4230-9b36-8917c8f7f931" />
+</p>
+
+---
+
+## 📊 AI Prediction History
+
+<p align="center">
+<img width="1441" height="623" alt="Screenshot 2026-07-17 141632" src="https://github.com/user-attachments/assets/12d6c8ae-de9b-4d17-8c62-0de494ec7a5d" />
+</p>
+
+---
+
+## 📋 Sensor Records
+
+<p align="center">
+<img width="1483" height="635" alt="Screenshot 2026-07-17 141644" src="https://github.com/user-attachments/assets/3e3e371a-a8dc-4eb2-af8a-5001d33b9742" />
+</p>
+
+---
+
+## ⚙ Backend API
+
+<p align="center">
+<img width="1606" height="911" alt="Screenshot 2026-07-17 141450" src="https://github.com/user-attachments/assets/c71a10d5-5d16-46a2-9032-d8fdf2a9d054" />
+</p>
+
+---
+
+## 📡 ESP32 + DHT22 Hardware
+
+<p align="center">
+<img width="1570" height="787" alt="image" src="https://github.com/user-attachments/assets/380b16e4-67f6-4ab4-9246-19cce9bdce7f" />
+</p>
+
+
+
 ```
 
 ---
