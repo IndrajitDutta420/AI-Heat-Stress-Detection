@@ -378,10 +378,6 @@ Seek medical assistance if symptoms continue.
 <img width="1570" height="787" alt="image" src="https://github.com/user-attachments/assets/380b16e4-67f6-4ab4-9246-19cce9bdce7f" />
 </p>
 
-
-
-```
-
 ---
 
 # 👨‍💻 Contributors
