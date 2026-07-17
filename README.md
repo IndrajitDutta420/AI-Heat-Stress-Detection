@@ -341,25 +341,10 @@ docs/esp32.png
 
 # 👨‍💻 Contributors
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Biraj021">
-        <img src="https://avatars.githubusercontent.com/Biraj021" width="100px;" alt="Biraj Acherjee"/><br />
-        <sub><b>Biraj Acherjee</b></sub>
-      </a><br />
-      <a href="https://github.com/Biraj021">🐙 Biraj021</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/IndrajitDutta420">
-        <img src="https://avatars.githubusercontent.com/IndrajitDutta420" width="100px;" alt="Indrajit Dutta"/><br />
-        <sub><b>Indrajit Dutta</b></sub>
-      </a><br />
-      <a href="https://github.com/IndrajitDutta420">🐙 IndrajitDutta420</a>
-    </td>
-  </tr>
-</table>
-
+| Name | GitHub |
+|------|--------|
+| Biraj Acherjee | https://github.com/Biraj021 |
+| Indrajit Dutta | https://github.com/IndrajitDutta420 |
 ---
 
 # ⭐ Future Improvements
