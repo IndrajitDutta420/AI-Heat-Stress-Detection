@@ -16,7 +16,7 @@ const char* password = "YOUR_WIFI_PASSWORD";
 // ==========================
 
 // Your computer IPv4 address
-String serverURL = "http://10.142.179.149:5000/predict";
+String serverURL = "Your computer IPv4 address";
 
 
 // ==========================
