@@ -384,8 +384,8 @@ Seek medical assistance if symptoms continue.
 
 | Name | GitHub |
 |------|--------|
+| Indrajit Dutta |  https://github.com/IndrajitDutta420|
 | Biraj Acherjee | https://github.com/Biraj021 |
-| Indrajit Dutta | https://github.com/IndrajitDutta420 |
 ---
 
 # ⭐ Future Improvements
